@@ -5,7 +5,7 @@
 ## 🧠 Introduction
 
 Medical image segmentation often suffers from **noisy labels**, which limits the performance of deep learning models.  
-This project introduces **SUDL** — a novel **Selective Uncertainty-aware Dual labels Learning** framework designed to:
+This project introduces **DLPG** — a novel **Dual-Label Guided Pseudo-label Generation with Selective Uncertainty (DLPG)** framework designed to:
 
 ## 🔧 Dependencies
 
