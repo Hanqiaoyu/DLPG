@@ -1,11 +1,11 @@
-# Selective Uncertainty-aware Dual Annotations Learning (SUDA)
+# Selective Uncertainty-aware Dual Labels Learning (SUDL)
 
-> This work proposes a Selective Uncertainty-aware Dual Annotations Learning (SUDA) framework to generate pseudo-labels closer to GT for noisy samples.
+> This work proposes a Selective Uncertainty-aware Dual labels Learning (SUDL) framework to generate pseudo-labels closer to GT for noisy samples.
 
 ## 🧠 Introduction
 
-Medical image segmentation often suffers from **noisy annotations**, which limits the performance of deep learning models.  
-This project introduces **SUDA** — a novel **Selective Uncertainty-aware Dual Annotations Learning** framework designed to:
+Medical image segmentation often suffers from **noisy labels**, which limits the performance of deep learning models.  
+This project introduces **SUDL** — a novel **Selective Uncertainty-aware Dual labels Learning** framework designed to:
 
 ## 🔧 Dependencies
 
