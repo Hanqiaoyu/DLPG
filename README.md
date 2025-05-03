@@ -1,6 +1,6 @@
-# Selective Uncertainty-aware Dual Labels Learning (SUDL)
+# Dual-Label Guided Pseudo-label Generation with Selective Uncertainty (DLPG)
 
-> This work proposes a Selective Uncertainty-aware Dual labels Learning (SUDL) framework to generate pseudo-labels closer to GT for noisy samples.
+> This work proposes a Dual-Label Guided Pseudo-label Generation with Selective Uncertainty (DLPG) framework for Medical Image Segmentation under Noisy Labels.
 
 ## 🧠 Introduction
 
