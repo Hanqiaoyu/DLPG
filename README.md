@@ -1,11 +1,11 @@
-# Dual-Label Guided Pseudo-label Generation with Selective Uncertainty (DLPG)
+# Selective Uncertainty-aware Dual Annotations Learning for Medical Image Segmentation with Noisy Labels (SUDA)
 
-> This work proposes a Dual-Label guided Pseudo-label Generation with selective uncertainty (DLPG) framework for medical image segmentation under noisy labels.
+> This work proposes a Selective Uncertainty-aware Dual Annotations learning (SUDA) framework for medical image segmentation with noisy labels.
 
 ## 🧠 Introduction
 
 Medical image segmentation often suffers from **noisy labels**, which limits the performance of deep learning models.  
-This project introduces **DLPG** — a novel **Dual-Label guided Pseudo-label Generation with selective uncertainty** framework designed to:
+This project introduces **SUDA** — a novel **Selective Uncertainty-aware Dual Annotations learning** framework designed to:
 
 ## 🔧 Dependencies
 
