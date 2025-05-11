@@ -1,11 +1,11 @@
-# Selective Uncertainty-aware Dual Annotations Learning for Medical Image Segmentation with Noisy Labels (SUDA)
+# Dual Annotation Learning with Selective Uncertainty for Medical Image Segmentation with Noisy Labels (DASU)
 
-> This work proposes a Selective Uncertainty-aware Dual Annotations learning (SUDA) framework for medical image segmentation with noisy labels.
+> This work proposes a Dual Annotation learning with Selective Uncertainty (DASU) framework for Medical Image Segmentation with Noisy Labels.
 
 ## 🧠 Introduction
 
 Medical image segmentation often suffers from **noisy labels**, which limits the performance of deep learning models.  
-This project introduces **SUDA** — a novel **Selective Uncertainty-aware Dual Annotations learning** framework designed to:
+This project introduces **DASU** — a novel **Dual Annotation learning with Selective Uncertainty ** framework designed to:
 
 ## 🔧 Dependencies
 
